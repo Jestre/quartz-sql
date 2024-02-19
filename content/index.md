@@ -1,13 +1,6 @@
 ---
-title: Pareidolia Quest
+title: Welcome to Quartz
 ---
 
-### SQL Class
-
-1. [[Class 1 Contents| Class 1]] - Introduction
-2. Class 2
-
-
-### FAQ
-
-- [[wtf-is-pareidolia]]
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
