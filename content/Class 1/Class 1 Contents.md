@@ -8,5 +8,6 @@ title: Class 1 - Table of Contents
 	- [[Numeric Data]]
 	- [[Date and Time Data]]
 	- [[String Data]]
+- [[Other and etc]]
 - Homework
 - Questions?
