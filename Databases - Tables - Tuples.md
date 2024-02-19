@@ -1,3 +1,0 @@
-Say what?
-
-# Basic Lingo
