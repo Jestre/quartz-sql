@@ -23,6 +23,9 @@ In the context of relational databases, a tuple is one record (one row). The inf
 
 The named columns of the database, e.g. "Name", "Address", etc. above.
 
+### Schema
+
+A database schema is the blueprint of how the database will be laid out, which attributes will be [[Other and etc#Keys|keys]] or [[Other and etc#Indexes|indexes]], and for the others, what naming scheme will be employed. It will help ensure that the layout makes sense before you actually start building the database on the server.
 
 ### Example Database
 
@@ -31,7 +34,5 @@ This is an ERD (Entity Relationship Diagram) of a simple database.
 ![[database.png]]
 
 ---
-
-Source: [Techopedia](https://www.techopedia.com/)
 
 Back to [[Class 1 Contents]]
