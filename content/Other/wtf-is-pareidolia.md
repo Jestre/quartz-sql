@@ -10,5 +10,8 @@ Common examples are [perceived images](https://en.wikipedia.org/wiki/Cloud#In_c
 
 The word derives from the Greek words _[pará](https://en.wiktionary.org/wiki/para- "wikt:para-")_ (παρά, "beside, alongside, instead [of]") and the noun [_eídōlon_](https://en.wiktionary.org/wiki/%CE%B5%E1%BC%B4%CE%B4%CF%89%CE%BB%CE%BF%CE%BD "wikt:εἴδωλον") (εἴδωλον, "image, form, shape").[[5]](https://en.wikipedia.org/wiki/Pareidolia#cite_note-theatlantic.com-5)
 
-
 Source: https://en.wikipedia.org/wiki/Pareidolia
+
+Tell me you don't see faces in these outlets.
+
+![[pareidolia-example.png]]

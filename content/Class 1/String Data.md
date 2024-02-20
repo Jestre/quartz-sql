@@ -11,6 +11,7 @@ Character strings data types allow you to store either fixed-length (char) or va
 |varchar|0 chars|8000 chars|n bytes + 2 bytes|
 |varchar (max)|0 chars|2^31 chars|n bytes + 2 bytes|
 |text|0 chars|2,147,483,647 chars|n bytes + 4 bytes|
+What about Ü or Ň?
 
 ### Unicode character string data types
 
