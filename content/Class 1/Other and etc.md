@@ -50,5 +50,6 @@ Every index is associated with a table and has a key, which is formed by one or 
 
 ![[jmmain.png]]
 
+
 ---
 Back to [[Class 1 Contents]]
