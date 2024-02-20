@@ -48,5 +48,7 @@ Indexes are data structures that can increase a database’s efficiency in acces
 
 Every index is associated with a table and has a key, which is formed by one or more table columns. When a query needs to access a table that has an index, the database can decide to use the index to retrieve records faster.
 
+![[jmmain.png]]
+
 ---
 Back to [[Class 1 Contents]]
