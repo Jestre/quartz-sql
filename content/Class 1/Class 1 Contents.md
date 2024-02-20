@@ -9,5 +9,5 @@ title: Class 1 - Table of Contents
 	- [[Date and Time Data]]
 	- [[String Data]]
 - [[Other and etc]]
-- Homework
+- [[Homework 1|Homework]]
 - Questions?
