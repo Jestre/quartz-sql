@@ -11,7 +11,7 @@ The class decided on the following foundational tables to begin the project, tho
 - Assignment table
 - Item types table (laptop, desktop, bwc)
 
-And here are some question which were posed that the system needed to answer, at a minimum.  There will certainly be many more.
+And here are some question which were posed that the system needed to answer, at a minimum.  There will certainly be many more. ^e30f1c
 
 1. How many people have been assigned a particular item?
 2. How many of an item do we have?
