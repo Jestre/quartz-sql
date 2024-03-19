@@ -12,5 +12,7 @@ Let's tack some functionality on now and try to answer some queries:
 6. Was anyone hired today?
 7. Does anyone have a work anniversary today?  If so, how long?
 
+[[Answers]] here
+
 ---
 Back to [[Class 3 Contents]]
