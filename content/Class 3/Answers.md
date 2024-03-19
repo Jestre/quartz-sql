@@ -1,6 +1,6 @@
 ---
 title: Answers - Class 3
-draft: true
+draft: false
 ---
 Let's tack some functionality on now and try to answer some queries:
 
@@ -9,7 +9,7 @@ Let's tack some functionality on now and try to answer some queries:
 ```SQL
 SELECT TOP 1 last_name, first_name, hire_date
 FROM people
-ORDER BY hire_date DESC
+ORDER BY hire_date
 ```
 
 #### Who has been employed the shortest?
@@ -17,7 +17,7 @@ ORDER BY hire_date DESC
 ```SQL
 SELECT TOP 1 last_name, first_name, hire_date
 FROM people
-ORDER BY hire_date
+ORDER BY hire_date DESC
 ```
 
 #### Which people do not have email addresses listed?
@@ -36,7 +36,7 @@ SELECT COUNT(*) FROM people
 ####  Who is vested in the insurance plan (assume 20 years)?
 
 ```SQL
-SELECT last_name, first_name, DATEADD(year, 20, hire_date) AS vested
+SELECT last_name, first_name, hire_date, DATEADD(year, 20, hire_date) AS vested
 FROM people
 WHERE  DATEADD(year, 20, hire_date) <= CURRENT_TIMESTAMP
 ORDER BY vested DESC, hire_date
@@ -60,7 +60,7 @@ SELECT TOP 30 id, last_name, first_name, hire_date, DATEDIFF(year, hire_date, CU
 FROM people
 WHERE DATEPART(d, hire_date) = DATEPART(d, GetDate()) 
   AND DATEPART(m, hire_date) = DATEPART(m, GetDate())
-ORDER BY years
+ORDER BY years DESC
 ```
 
 > DATEDIFF(part, start_date, end_date)
