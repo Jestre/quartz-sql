@@ -7,4 +7,4 @@ We'll be using the time next week to construct queries to answer the [[Homework 
 
 ---
 
-Back to [[Class 1 Contents]]
+Back to [[Class 2 Contents]]

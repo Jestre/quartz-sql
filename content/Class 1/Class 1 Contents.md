@@ -11,3 +11,6 @@ title: Class 1 - Table of Contents
 - [[Other and etc]]
 - [[Homework 1|Homework]]
 - Questions?
+
+---
+Back to [[index|index]]

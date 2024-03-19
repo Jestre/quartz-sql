@@ -9,3 +9,7 @@ draft: false
 - [[Querying Data - Baby Steps|Check it]]
 - [[Homework 2|Homework]]
 - Questions?
+
+---
+
+Back to [[index|index]]

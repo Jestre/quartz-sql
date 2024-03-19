@@ -28,15 +28,27 @@ CREATE TABLE sws.people (
 2. Click the '+' sign to expand it
 3. R-click on Tables and choose New > Table
 4. Add the fields for the table, and define their data types, etc.
-	1. Don't forget the primary key
+	1. Don't forget the identity and primary key
 5. When complete, R-Click the tab of the designer and choose Save Table (name it here)
 6. Add any additional tables
 
 ##### Step 3
 ![[new-table.png]]
 
-##### Steps 4 - 5
+##### Step 4
+
+Set Identity, will cause SQL Server to increment the counter in this field automatically.
+
 ![[table-fields.png]]
+
+Now Right-Click on the little triangle, and choose "Set Primary Key"
+
+![[set-primary-key.png]]
+
+##### Step 5
+
+Finally, right-click on the tab and choose Save Table.  It will ask you to name it at this point.
+
 
 ---
 Back to [[Class 2 Contents]]
