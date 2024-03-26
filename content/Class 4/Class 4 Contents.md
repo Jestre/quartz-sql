@@ -7,7 +7,9 @@ Today we will start to answer those questions posed during [[Class 1 Contents|Cl
 Topics:
 - [[Grouping|Grouping Data]]
 - [[JOINS]]
-- 
+- Next?
+	- Functions
+	- Other?
 
 ---
-Back to [[content/index|index]]
+Back to [[index|index]]
