@@ -6,6 +6,7 @@ Today we will start to answer those questions posed during [[Class 1 Contents|Cl
 
 Topics:
 - [[Grouping|Grouping Data]]
+- [[Grouping - Answers]]
 - [[JOINS]]
 - Next?
 	- Functions

@@ -1,6 +1,6 @@
 ---
 title: Grouping Data - Answers
-draft: true
+draft: false
 ---
 
 ### Grouping - Answers
